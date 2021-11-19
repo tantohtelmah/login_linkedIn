@@ -105,3 +105,10 @@ p{
     margin-bottom: 20px;
     margin-right: 580px;
 }
+.fa-google {
+    background: conic-gradient(from -45deg, #ea4335 150deg, #4285f4 150deg 300deg, #34a853 180deg 300deg, #fbbc05 270deg) 70% 55%/115% 100% no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+  }
