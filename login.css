@@ -11,11 +11,14 @@
 }
 .button{
     border-radius: 25px;
-    height: 35px;
+    height: 45px;
     color: white;
-    background-color: #0077b5;
+    background-color: #058bd3;
     width: 500px;
     cursor: pointer;
+    border-color:#058bd3;
+    
+    
 }
 .mainForm{
 
@@ -40,10 +43,10 @@
     border-radius: 25px;
     border-style: solid;
     height: 30px;
-    color: #0077b5;
+    color: #058bd3;
     width: 500px;
     border-width: 1px;
-    border-color: #0077b5;
+    border-color: #058bd3;
     align-content: center;
     justify-content: center;
     display: flex;
@@ -53,7 +56,7 @@
 
 }
 .spanGoogle{
-    color: #0484c9;
+    color: #058bd3;
     margin-left: 10px;
 }
 body{
@@ -74,41 +77,42 @@ p{
 }
 .tr{border: none;
     opacity: 0.5;
+    margin-right: 25px;
+    margin-left: 25px;
 }
+
 .td{
     border-right: solid 1px;
     border-left: solid 1px;
-    margin-left: 5px;
-    margin-right: 5px;
-}
-.fa-google{
     
 }
 .sign{
-    color: #0077b5;
+    color: #058bd3;
 }
 .sign:hover{
     opacity: 0.7;
-    color: red;
+    color: gray;
 }
 .spanGoogle:hover{
     opacity: 0.7;
-    color: red;
+    color: gray;
 }
 .forget{
     justify-content: left;
     display: flex;
     float: left;
-    color: #0077b5;
-    margin-left: 230px;
+    color: #058bd3;
+    margin-left: 500px;
     margin-top: 5px;
     margin-bottom: 20px;
     margin-right: 580px;
 }
 .fa-google {
-    background: conic-gradient(from -45deg, #ea4335 150deg, #4285f4 150deg 300deg, #34a853 180deg 300deg, #fbbc05 270deg) 70% 55%/115% 100% no-repeat;
+    background: conic-gradient(from -30deg, #ea4335 25deg, #4285f4 23deg 50deg, #34a853 25deg 300deg, #fbbc05 5deg) 50% 35%/90% 100% no-repeat;
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
     -webkit-text-fill-color: transparent;
+
   }
+  
