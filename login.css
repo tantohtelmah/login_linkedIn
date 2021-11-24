@@ -115,4 +115,9 @@ p{
     -webkit-text-fill-color: transparent;
 
   }
+a{
+    color: gray;
+    margin-right: 5px;
+    margin-left: 5px;
+}
   
